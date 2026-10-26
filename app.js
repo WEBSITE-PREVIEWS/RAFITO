@@ -9,7 +9,7 @@
 // QUALQUER OUTRO SCRIPT QUE TENTE ALTERAR É IGNORADO
 
 const CONFIG = {
-  telegram : "SeIIer_X",
+  telegram : "seiier_xx",
   zangi    : "6970835383",
   zangiUrl : "https://services.zangi.com/dl/conversation/6970835383",
 };
